@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/Portfolio_DounyaDerlen/static/css/main.d8a90527.chunk.css",
+    "main.js": "/Portfolio_DounyaDerlen/static/js/main.64042051.chunk.js",
+    "main.js.map": "/Portfolio_DounyaDerlen/static/js/main.64042051.chunk.js.map",
+    "runtime-main.js": "/Portfolio_DounyaDerlen/static/js/runtime-main.f9f251bf.js",
+    "runtime-main.js.map": "/Portfolio_DounyaDerlen/static/js/runtime-main.f9f251bf.js.map",
+    "static/js/2.536c7440.chunk.js": "/Portfolio_DounyaDerlen/static/js/2.536c7440.chunk.js",
+    "static/js/2.536c7440.chunk.js.map": "/Portfolio_DounyaDerlen/static/js/2.536c7440.chunk.js.map",
+    "index.html": "/Portfolio_DounyaDerlen/index.html",
+    "static/css/main.d8a90527.chunk.css.map": "/Portfolio_DounyaDerlen/static/css/main.d8a90527.chunk.css.map",
+    "static/js/2.536c7440.chunk.js.LICENSE.txt": "/Portfolio_DounyaDerlen/static/js/2.536c7440.chunk.js.LICENSE.txt",
+    "static/media/AV.c5dafaf7.png": "/Portfolio_DounyaDerlen/static/media/AV.c5dafaf7.png",
+    "static/media/avataaars(2).e530e695.png": "/Portfolio_DounyaDerlen/static/media/avataaars(2).e530e695.png",
+    "static/media/cv.365d1f2b.png": "/Portfolio_DounyaDerlen/static/media/cv.365d1f2b.png",
+    "static/media/cv.64ab7c76.pdf": "/Portfolio_DounyaDerlen/static/media/cv.64ab7c76.pdf",
+    "static/media/html.9e2517dc.png": "/Portfolio_DounyaDerlen/static/media/html.9e2517dc.png",
+    "static/media/jquery.27381bbf.png": "/Portfolio_DounyaDerlen/static/media/jquery.27381bbf.png",
+    "static/media/laravel.b41b2b5d.png": "/Portfolio_DounyaDerlen/static/media/laravel.b41b2b5d.png",
+    "static/media/my_cinema.348c13b7.mp4": "/Portfolio_DounyaDerlen/static/media/my_cinema.348c13b7.mp4",
+    "static/media/my_snapchat.cbd82937.mp4": "/Portfolio_DounyaDerlen/static/media/my_snapchat.cbd82937.mp4",
+    "static/media/mycinema.3dd3b924.jpg": "/Portfolio_DounyaDerlen/static/media/mycinema.3dd3b924.jpg",
+    "static/media/mysql.6f962be1.png": "/Portfolio_DounyaDerlen/static/media/mysql.6f962be1.png",
+    "static/media/node.4c2fb998.png": "/Portfolio_DounyaDerlen/static/media/node.4c2fb998.png",
+    "static/media/php.b0fca25e.png": "/Portfolio_DounyaDerlen/static/media/php.b0fca25e.png",
+    "static/media/pinterest.166754c6.jpg": "/Portfolio_DounyaDerlen/static/media/pinterest.166754c6.jpg",
+    "static/media/pinterest.4e4c3407.mp4": "/Portfolio_DounyaDerlen/static/media/pinterest.4e4c3407.mp4",
+    "static/media/react.20adfb35.png": "/Portfolio_DounyaDerlen/static/media/react.20adfb35.png",
+    "static/media/snapchat.131c3d7b.jpg": "/Portfolio_DounyaDerlen/static/media/snapchat.131c3d7b.jpg",
+    "static/media/symfony.dfc00257.png": "/Portfolio_DounyaDerlen/static/media/symfony.dfc00257.png",
+    "static/media/twitter.71328de0.jpg": "/Portfolio_DounyaDerlen/static/media/twitter.71328de0.jpg",
+    "static/media/twitter.e965cabb.mp4": "/Portfolio_DounyaDerlen/static/media/twitter.e965cabb.mp4"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f9f251bf.js",
+    "static/js/2.536c7440.chunk.js",
+    "static/css/main.d8a90527.chunk.css",
+    "static/js/main.64042051.chunk.js"
+  ]
+}

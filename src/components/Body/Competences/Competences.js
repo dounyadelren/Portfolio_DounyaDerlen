@@ -3,7 +3,7 @@ import React from 'react'
 function Competences() {
     return (
         <div>
-            <h1 className="h2 text-center">Skills</h1>
+            <h1 className="h2 text-center">A propos de moi:</h1>
             <div  className="d-flex justify-content-center projets">
                 <div className="row">
                     <div className="col-sm">

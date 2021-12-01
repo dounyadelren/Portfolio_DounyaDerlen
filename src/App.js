@@ -8,7 +8,6 @@ import Banniere from './components/Entete/Banniere';
 import Texte from './components/Body/Pres';
 import Projets from './components/Body/Projets/Projets';
 import Contact from './components/Body/Contact/Contact';
-import Cv from './components/Body/Cv';
 import Competences from './components/Body/Competences/Competences';
 import Footer from './components/Footer/Footer';
 
@@ -27,17 +26,14 @@ function App() {
       <div id="banniere">
         <Banniere />
       </div>
-      <div id="texte" style={{ height: "120vh"}}>
+      <div id="texte" style={{ height: "100vh"}}>
         <Texte />
       </div>
       <div className="projets" style={{ height: "100vh"}}>
         <Projets />
       </div>
-      <div style={{ marginTop: "30vh", height: "70vh"}}>
+      <div style={{ marginTop: '30vh', height: "100vh"}}>
         <Competences />
-      </div>
-      <div className="d-flex justify-content-center" style={{ height: "120vh"}}>
-        <Cv />
       </div>
       <div className="contact-form" style={{ height: "110vh"}} id="contact">
         <Contact />

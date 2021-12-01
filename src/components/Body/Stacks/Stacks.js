@@ -12,7 +12,7 @@ import Github from '../../../assets/img/github.png';
 function Stacks() {
     return (
         <div className="container">
-            <h2 className="pt-5">Langages utilisés:</h2>
+            <h2 className="pt-5">Technologies utilisées:</h2>
             <img className="icon" src={Symfony} alt="symfony" />
             <img className="icon" src={Laravel} alt="laravel" />
             <img style={{ height: 90, width: 140, margin: 30 }} src={Node} alt="Node" />

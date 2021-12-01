@@ -52,7 +52,7 @@ const messageCharsLeft = 1500 - message.length;
                         <p>{messageCharsLeft}</p>
                     </div>
                     <div className="form-group d-flex justify-content-center">
-                        <input type="submit" id="send" className="btn btn-lg btn-warning mt-3" value="Envoyer"/>
+                        <input type="submit" id="send" className="btn btn-lg btn-outline-secondary mt-3" value="Envoyer"/>
                     </div>
                 </fieldset>
 

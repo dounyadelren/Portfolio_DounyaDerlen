@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/Portfolio_DounyaDerlen/static/css/main.a0c7dad8.chunk.css",
-    "main.js": "/Portfolio_DounyaDerlen/static/js/main.c41df4ce.chunk.js",
-    "main.js.map": "/Portfolio_DounyaDerlen/static/js/main.c41df4ce.chunk.js.map",
+    "main.css": "/Portfolio_DounyaDerlen/static/css/main.30462919.chunk.css",
+    "main.js": "/Portfolio_DounyaDerlen/static/js/main.a06039ce.chunk.js",
+    "main.js.map": "/Portfolio_DounyaDerlen/static/js/main.a06039ce.chunk.js.map",
     "runtime-main.js": "/Portfolio_DounyaDerlen/static/js/runtime-main.f9f251bf.js",
     "runtime-main.js.map": "/Portfolio_DounyaDerlen/static/js/runtime-main.f9f251bf.js.map",
     "static/js/2.51fdcbec.chunk.js": "/Portfolio_DounyaDerlen/static/js/2.51fdcbec.chunk.js",
     "static/js/2.51fdcbec.chunk.js.map": "/Portfolio_DounyaDerlen/static/js/2.51fdcbec.chunk.js.map",
     "index.html": "/Portfolio_DounyaDerlen/index.html",
-    "static/css/main.a0c7dad8.chunk.css.map": "/Portfolio_DounyaDerlen/static/css/main.a0c7dad8.chunk.css.map",
+    "static/css/main.30462919.chunk.css.map": "/Portfolio_DounyaDerlen/static/css/main.30462919.chunk.css.map",
     "static/js/2.51fdcbec.chunk.js.LICENSE.txt": "/Portfolio_DounyaDerlen/static/js/2.51fdcbec.chunk.js.LICENSE.txt",
     "static/media/AV.c5dafaf7.png": "/Portfolio_DounyaDerlen/static/media/AV.c5dafaf7.png",
     "static/media/cv.472f15e8.pdf": "/Portfolio_DounyaDerlen/static/media/cv.472f15e8.pdf",
@@ -24,7 +24,7 @@
     "static/media/pinterest.166754c6.jpg": "/Portfolio_DounyaDerlen/static/media/pinterest.166754c6.jpg",
     "static/media/pinterest.4e4c3407.mp4": "/Portfolio_DounyaDerlen/static/media/pinterest.4e4c3407.mp4",
     "static/media/react.20adfb35.png": "/Portfolio_DounyaDerlen/static/media/react.20adfb35.png",
-    "static/media/snapchat.131c3d7b.jpg": "/Portfolio_DounyaDerlen/static/media/snapchat.131c3d7b.jpg",
+    "static/media/snapchat.1e2b0c6f.jpg": "/Portfolio_DounyaDerlen/static/media/snapchat.1e2b0c6f.jpg",
     "static/media/symfony.dfc00257.png": "/Portfolio_DounyaDerlen/static/media/symfony.dfc00257.png",
     "static/media/twitter.71328de0.jpg": "/Portfolio_DounyaDerlen/static/media/twitter.71328de0.jpg",
     "static/media/twitter.e965cabb.mp4": "/Portfolio_DounyaDerlen/static/media/twitter.e965cabb.mp4"
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.f9f251bf.js",
     "static/js/2.51fdcbec.chunk.js",
-    "static/css/main.a0c7dad8.chunk.css",
-    "static/js/main.c41df4ce.chunk.js"
+    "static/css/main.30462919.chunk.css",
+    "static/js/main.a06039ce.chunk.js"
   ]
 }

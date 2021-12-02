@@ -1,3 +1,6 @@
+body {
+    padding: 7px;
+}
 /* ANIMATION */
 #titre {
     margin-top: 25px;
@@ -113,7 +116,7 @@ li{
 
 /*Competences*/
 .competences {
-    margin-top: 200px;
+    margin-top: 100px;
 }
 
 /*FORMULAIRE DE CONTACT*/
@@ -145,14 +148,16 @@ li{
     width: 100%;
     height: 30%;
 }
-
+.responsiv {
+    display: none
+ }
 /*MEDIA QUERIES*/
 @media screen and (max-width: 1190px) {
 
     .projets {
       display: flex;
       flex-direction: column;
-      margin-top: 250px;
+      margin-top: 150px;
     }
 
     .competences{
@@ -179,19 +184,28 @@ li{
     .projets {
       display: flex;
       flex-direction: column;
-      margin-top: 600px;
+      margin-top: 30rem!important;
+    }
+
+    .footer {
+        display: none;
+    }
+    .responsiv {
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
     }
 
 }
 
-@media screen and (maw-width: 360px){
+@media screen and (max-width: 360px){
     .stacks {
         margin-bottom: 3rem!important ;
     }
     .projets {
       display: flex;
       flex-direction: column;
-      margin-top: 3rem;
+      margin-top: 65rem!important ;
     }
 
     .blue {
@@ -208,8 +222,11 @@ li{
     }
 
     .footer {
-        height: 10%;
-        width: 100%;
-        margin-top: 200px;
+        display: none;
+    }
+    .responsiv {
+        display: flex;
+        justify-content: center;
+        margin-top: 50px;
     }
 }

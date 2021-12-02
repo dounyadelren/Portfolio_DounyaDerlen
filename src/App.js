@@ -38,6 +38,10 @@ function App() {
       <div className="contact-form">
         <Contact />
       </div>
+      <div className="responsiv">
+          <a style={{color: "#65c9FF"}} href="https://github.com/dounyadelren?tab=repositories" target="_blank" rel="noreferrer"><i style={{ fontSize: 50, padding:5}} class="fab fa-github"></i></a>
+          <a style={{color: "#65c9FF"}} href="https://www.linkedin.com/in/dounya-derlen/" target="_blank" rel="noreferrer"><i class="fab fa-linkedin" style={{ fontSize: 50, padding:5}}></i></a>
+      </div>
       <div className="footer">
         <Footer />
       </div>

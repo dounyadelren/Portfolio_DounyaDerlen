@@ -10,7 +10,7 @@ function Banniere() {
                 <img className="avatar" src={Image} alt="Avatar should be here" />
             </div>
             <div  className="text-center mt-5 h3" >
-                <p style={{ fontStyle: 'italic' }}>"La liberté c'est de savoir danser avec ses chaines" F. Nietzsche</p>
+                <p style={{ fontStyle: 'italic' }}>"Un utilisateur sur un site web, c'est comme un client dans un hôtel, il faut rendre son séjour agréable."</p>
             </div>
             <Cv />
             <div className="d-flex justify-content-center">

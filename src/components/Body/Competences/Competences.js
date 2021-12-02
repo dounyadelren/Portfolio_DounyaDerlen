@@ -13,7 +13,7 @@ function Competences() {
                                 <p className="card-text">octobre 2021</p>
                                 <p className="card-text"> Assistante pédagogique pendant une formation courte en partenariat avec une école de commerce</p>
                                 <p className="card-text"> 2014 - 2021 :</p>
-                                <p className="card-text"> Danseuse professionnelle dans l'évenementiel sportif, également en compagnie de danse pro </p>
+                                <p className="card-text"> Danseuse professionnelle dans l'évenementiel sportif, et au sein de compagnies de danse pro </p>
                                 <p className="card-text"> 2014 - 2018 :</p>
                                 <p className="card-text"> Chef de rang en restauration "haut de gamme"</p>
                                 <p className="card-text"> 2012 - 2016 :</p>
@@ -49,9 +49,9 @@ function Competences() {
                                 <p className="card-text font">Musique</p>
                                 <p className="card-text"> Je suis chanteuse et guitariste</p>
                                 <p className="card-text font">Danse</p>
-                                <p className="card-text"> Même en n'étant plus mon activité professionnelle principale, la danse reste très présente dans mon quotidien</p>
+                                <p className="card-text"> Même si elle n'est plus mon activité professionnelle principale, la danse reste très présente dans mon quotidien</p>
                                 <p className="card-text font">Voyage</p>
-                                <p className="card-text">J'ai eu l'occasion de partir aux Etats-Unis ainsi qu'au Canada où j'ai pû perfectionner mon anglais</p>
+                                <p className="card-text">J'ai eu l'occasion de partir aux Etats-Unis ainsi qu'au Canada (séjour d'un an) où j'ai pû perfectionner mon anglais</p>
 
 
 

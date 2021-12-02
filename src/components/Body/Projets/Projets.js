@@ -17,10 +17,10 @@ function Projets() {
 
     return (
         <div>
-                <h2 className="text-center">Mes Projets</h2>
+                <h2 className="text-center pb-3">Mes Projets</h2>
                 <div className="row">
-                    <div className="col-md-6">
-                        <div className="card" onClick={() => setIsOpenPinterest(true)}>
+                    <div className="col-sm-6">
+                        <div className="card mb-4" onClick={() => setIsOpenPinterest(true)}>
                             <div className="card-body" id="pinterest">
                                 <CardActionArea>
                                     <Pinterest />
@@ -29,7 +29,7 @@ function Projets() {
                         </div>
                         {isOpenPinterest && <ModalPinterest setIsOpenPinterest={setIsOpenPinterest} />}
                     </div>
-                    <div className="col-md-6">
+                    <div className="col-sm-6">
                         <div className="card"  onClick={() => setIsOpenTwitter(true)}>
                             <div className="card-body" id="twitter">
                                 <CardActionArea>

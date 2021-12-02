@@ -29,13 +29,13 @@ function App() {
       <div id="texte" style={{ height: "100vh"}}>
         <Texte />
       </div>
-      <div className="projets" style={{ height: "100vh"}}>
+      <div className="projets">
         <Projets />
       </div>
-      <div style={{ marginTop: '30vh', height: "100vh"}}>
+      <div class="competences">
         <Competences />
       </div>
-      <div className="contact-form" style={{ height: "110vh"}} id="contact">
+      <div className="contact-form">
         <Contact />
       </div>
       <div className="footer">

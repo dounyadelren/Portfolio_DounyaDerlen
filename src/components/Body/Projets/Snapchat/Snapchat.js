@@ -14,11 +14,11 @@ function Snapchat() {
                     <img
                     src={Img}
                     alt="error"
+                    // className="img_snap m-auto"
                     style={{
-                        // Make the image expand to cover the video's dimensions
-                        width: '30%',
+                        width: '100%',
                         height: '100%',
-                        marginLeft: 200
+                        objectFit: 'cover',
                     }}
                     />
                 }

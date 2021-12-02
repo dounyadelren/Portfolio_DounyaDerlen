@@ -11,7 +11,7 @@ import Github from '../../../assets/img/github.png';
 
 function Stacks() {
     return (
-        <div className="container">
+        <div className="container stacks">
             <h2 className="pt-5">Technologies utilisées:</h2>
             <img className="icon" src={Symfony} alt="symfony" />
             <img className="icon" src={Laravel} alt="laravel" />

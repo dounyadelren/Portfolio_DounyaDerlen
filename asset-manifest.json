@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Portfolio_DounyaDerlen/static/css/main.7249209a.chunk.css",
+    "main.css": "/Portfolio_DounyaDerlen/static/css/main.fd35321d.chunk.css",
     "main.js": "/Portfolio_DounyaDerlen/static/js/main.05602990.chunk.js",
     "main.js.map": "/Portfolio_DounyaDerlen/static/js/main.05602990.chunk.js.map",
     "runtime-main.js": "/Portfolio_DounyaDerlen/static/js/runtime-main.f9f251bf.js",
@@ -8,7 +8,7 @@
     "static/js/2.51fdcbec.chunk.js": "/Portfolio_DounyaDerlen/static/js/2.51fdcbec.chunk.js",
     "static/js/2.51fdcbec.chunk.js.map": "/Portfolio_DounyaDerlen/static/js/2.51fdcbec.chunk.js.map",
     "index.html": "/Portfolio_DounyaDerlen/index.html",
-    "static/css/main.7249209a.chunk.css.map": "/Portfolio_DounyaDerlen/static/css/main.7249209a.chunk.css.map",
+    "static/css/main.fd35321d.chunk.css.map": "/Portfolio_DounyaDerlen/static/css/main.fd35321d.chunk.css.map",
     "static/js/2.51fdcbec.chunk.js.LICENSE.txt": "/Portfolio_DounyaDerlen/static/js/2.51fdcbec.chunk.js.LICENSE.txt",
     "static/media/AV.c5dafaf7.png": "/Portfolio_DounyaDerlen/static/media/AV.c5dafaf7.png",
     "static/media/cv.472f15e8.pdf": "/Portfolio_DounyaDerlen/static/media/cv.472f15e8.pdf",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.f9f251bf.js",
     "static/js/2.51fdcbec.chunk.js",
-    "static/css/main.7249209a.chunk.css",
+    "static/css/main.fd35321d.chunk.css",
     "static/js/main.05602990.chunk.js"
   ]
 }

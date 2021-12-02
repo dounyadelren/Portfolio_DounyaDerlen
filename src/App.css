@@ -1,4 +1,4 @@
-/* TOP OF PAGE */
+/* ANIMATION */
 #titre {
     margin-top: 25px;
     font-size: 21px;
@@ -40,6 +40,7 @@
     to   { opacity: 1; }
 }
 
+/* NAVBAR */
 .fixedElement {
     background-color: white;
     position:fixed;
@@ -47,23 +48,28 @@
     width:100%;
     z-index:9;
 }
+
+/* AVATAR */
 .avatar {
     height:30%;
     width: 30%;
     margin-top: 100px;
 }
 
+/*IMAGE DE LA BANNIERE*/
 .pc {
     width:50%;
     margin-bottom: -50px;
 }
 
+/*BANNIERE BLEUE*/
 .blue{
     background-color: #65c9FF;
     height: 500px;
     width: 100%;
 }
 
+/*STACKS*/
 .white {
     width: 75%;
     height: 400px;
@@ -76,13 +82,11 @@
     border-start-end-radius: 20px;
 }
 
-.envelop {
-    font-size: 50px;
-}
 
 .texte{
     padding-left: 100px;
     padding-right: 100px;
+    padding: 3rem;
 }
 
 .icon {
@@ -96,19 +100,34 @@
     width: 100%;
     padding: 10;
 }
+
+/*CARDS*/
 .projets{
     margin-left: 5%;
     margin-right: 5%;
 }
 
+li{
+    list-style-type:none;
+}
+
+/*Competences*/
+.competences {
+    margin-top: 200px;
+}
+
+/*FORMULAIRE DE CONTACT*/
 .textarea {
     resize: none;
 }
+
 
 .move:hover{
     transition : transform 0.3s; 
     transform: scale(1.075);
 }
+
+/*A PROPOS*/
 #entete {
     background-color: #65c9FF;
     color: white;
@@ -120,11 +139,77 @@
     text-decoration: underline;
 }
 
-li{
-    list-style-type:none;
-}
+/*FOOTER*/
 .footer{
     background-color: #65c9FF;
     width: 100%;
     height: 30%;
+}
+
+/*MEDIA QUERIES*/
+@media screen and (max-width: 1190px) {
+
+    .projets {
+      display: flex;
+      flex-direction: column;
+      margin-top: 250px;
+    }
+
+    .competences{
+        margin-top:150px;
+    }
+}
+
+@media screen and (max-width: 800px) {
+    .container {
+        margin-bottom: 40%;
+    }
+    .projets {
+      display: flex;
+      flex-direction: column;
+      margin-top: 500px;
+    }
+
+}
+
+@media screen and (max-width: 560px) {
+    .stacks {
+        margin-bottom: 500px;
+    }
+    .projets {
+      display: flex;
+      flex-direction: column;
+      margin-top: 600px;
+    }
+
+}
+
+@media screen and (maw-width: 360px){
+    .stacks {
+        margin-bottom: 3rem!important ;
+    }
+    .projets {
+      display: flex;
+      flex-direction: column;
+      margin-top: 3rem;
+    }
+
+    .blue {
+        width: 100%;
+        height: 800px;
+        padding-bottom: 500px;
+    }
+    .texte{
+        padding: 0;
+    }
+
+    #send {
+        margin-bottom: 50px;
+    }
+
+    .footer {
+        height: 10%;
+        width: 100%;
+        margin-top: 200px;
+    }
 }

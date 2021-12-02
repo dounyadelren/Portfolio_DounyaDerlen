@@ -4,12 +4,14 @@ function Competences() {
     return (
         <div>
             <h1 className="h2 text-center">A propos de moi:</h1>
-            <div  className="d-flex justify-content-center projets">
+            <div  className="d-flex justify-content-center">
                 <div className="row">
                     <div className="col-sm">
                         <div className="card m-4" style={{maxWidth: "30rem"}}>
                             <div className="card-header h5 text-center" id="entete">Expériences<i class="ml-3 fas fa-network-wired"></i></div>
                             <div className="card-body">
+                                <p className="card-text">octobre 2021</p>
+                                <p className="card-text"> Assistante pédagogique pendant une formation courte en partenariat avec une école de commerce</p>
                                 <p className="card-text"> 2014 - 2021 :</p>
                                 <p className="card-text"> Danseuse professionnelle dans l'évenementiel sportif, également en compagnie de danse pro </p>
                                 <p className="card-text"> 2014 - 2018 :</p>

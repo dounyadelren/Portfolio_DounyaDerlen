@@ -16,7 +16,7 @@ function Projets() {
     const [isOpenCinema, setIsOpenCinema] = useState(false);
 
     return (
-        <div>
+        <>
                 <h2 className="text-center pb-3">Mes Projets</h2>
                 <div className="row">
                     <div className="col-sm-6">
@@ -63,7 +63,7 @@ function Projets() {
                         {isOpenCinema && <ModalCinema setIsOpenCinema={setIsOpenCinema} />}
                     </div>
                 </div>
-        </div>
+        </>
     )
 }
 

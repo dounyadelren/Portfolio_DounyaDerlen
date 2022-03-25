@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/Portfolio_DounyaDerlen/static/css/main.ea119f75.chunk.css",
-    "main.js": "/Portfolio_DounyaDerlen/static/js/main.4a403a2e.chunk.js",
-    "main.js.map": "/Portfolio_DounyaDerlen/static/js/main.4a403a2e.chunk.js.map",
+    "main.css": "/Portfolio_DounyaDerlen/static/css/main.bac2356b.chunk.css",
+    "main.js": "/Portfolio_DounyaDerlen/static/js/main.a51b2efe.chunk.js",
+    "main.js.map": "/Portfolio_DounyaDerlen/static/js/main.a51b2efe.chunk.js.map",
     "runtime-main.js": "/Portfolio_DounyaDerlen/static/js/runtime-main.f9f251bf.js",
     "runtime-main.js.map": "/Portfolio_DounyaDerlen/static/js/runtime-main.f9f251bf.js.map",
     "static/js/2.7f72b47b.chunk.js": "/Portfolio_DounyaDerlen/static/js/2.7f72b47b.chunk.js",
     "static/js/2.7f72b47b.chunk.js.map": "/Portfolio_DounyaDerlen/static/js/2.7f72b47b.chunk.js.map",
     "index.html": "/Portfolio_DounyaDerlen/index.html",
-    "static/css/main.ea119f75.chunk.css.map": "/Portfolio_DounyaDerlen/static/css/main.ea119f75.chunk.css.map",
+    "static/css/main.bac2356b.chunk.css.map": "/Portfolio_DounyaDerlen/static/css/main.bac2356b.chunk.css.map",
     "static/js/2.7f72b47b.chunk.js.LICENSE.txt": "/Portfolio_DounyaDerlen/static/js/2.7f72b47b.chunk.js.LICENSE.txt",
     "static/media/AV.c5dafaf7.png": "/Portfolio_DounyaDerlen/static/media/AV.c5dafaf7.png",
     "static/media/cv.8adb6a28.pdf": "/Portfolio_DounyaDerlen/static/media/cv.8adb6a28.pdf",
     "static/media/html.9e2517dc.png": "/Portfolio_DounyaDerlen/static/media/html.9e2517dc.png",
     "static/media/jquery.27381bbf.png": "/Portfolio_DounyaDerlen/static/media/jquery.27381bbf.png",
-    "static/media/laravel.b41b2b5d.png": "/Portfolio_DounyaDerlen/static/media/laravel.b41b2b5d.png",
+    "static/media/mongodb.6133349d.png": "/Portfolio_DounyaDerlen/static/media/mongodb.6133349d.png",
     "static/media/my_cinema.348c13b7.mp4": "/Portfolio_DounyaDerlen/static/media/my_cinema.348c13b7.mp4",
     "static/media/my_snapchat.cbd82937.mp4": "/Portfolio_DounyaDerlen/static/media/my_snapchat.cbd82937.mp4",
     "static/media/mycinema.3dd3b924.jpg": "/Portfolio_DounyaDerlen/static/media/mycinema.3dd3b924.jpg",
@@ -28,13 +28,14 @@
     "static/media/react.20adfb35.png": "/Portfolio_DounyaDerlen/static/media/react.20adfb35.png",
     "static/media/snapchat.1e2b0c6f.jpg": "/Portfolio_DounyaDerlen/static/media/snapchat.1e2b0c6f.jpg",
     "static/media/symfony.dfc00257.png": "/Portfolio_DounyaDerlen/static/media/symfony.dfc00257.png",
+    "static/media/tailwindcss.025b6ae4.png": "/Portfolio_DounyaDerlen/static/media/tailwindcss.025b6ae4.png",
     "static/media/twitter.71328de0.jpg": "/Portfolio_DounyaDerlen/static/media/twitter.71328de0.jpg",
     "static/media/twitter.e965cabb.mp4": "/Portfolio_DounyaDerlen/static/media/twitter.e965cabb.mp4"
   },
   "entrypoints": [
     "static/js/runtime-main.f9f251bf.js",
     "static/js/2.7f72b47b.chunk.js",
-    "static/css/main.ea119f75.chunk.css",
-    "static/js/main.4a403a2e.chunk.js"
+    "static/css/main.bac2356b.chunk.css",
+    "static/js/main.a51b2efe.chunk.js"
   ]
 }

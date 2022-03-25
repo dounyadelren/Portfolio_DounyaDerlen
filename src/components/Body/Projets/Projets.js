@@ -8,12 +8,15 @@ import ModalCinema from './MyCinema/ModalCinema';
 import ModalPinterest from './Pinterest/ModalPinterest';
 import ModalSnapchat from './Snapchat/ModalSnapchat';
 import ModalTwitter from './Twitter/ModalTwitter';
+import Prevon from './Prev_On/Prevon'
+import ModalPrevon from "./Prev_On/ModalPrevon"
 
 function Projets() {
     const [isOpenPinterest, setIsOpenPinterest] = useState(false);
     const [isOpenTwitter, setIsOpenTwitter] = useState(false);
     const [isOpenSnapchat, setIsOpenSnapchat] = useState(false);
     const [isOpenCinema, setIsOpenCinema] = useState(false);
+    const [isOpenPrevon, setIsOpenPrevon] = useState(false);
 
     return (
         <>
@@ -30,6 +33,16 @@ function Projets() {
                         {isOpenPinterest && <ModalPinterest setIsOpenPinterest={setIsOpenPinterest} />}
                     </div>
                     <div className="col-sm-6">
+                        <div className="card mb-4" onClick={() => setIsOpenPrevon(true)}>
+                            <div className="card-body" id="prevon">
+                                <CardActionArea>
+                                    <Prevon />
+                                </CardActionArea>
+                            </div>
+                        </div>
+                        {isOpenPrevon && <ModalPrevon setIsOpenPrevon={setIsOpenPrevon} />}
+                    </div>
+                    <div className="col-sm-6">
                         <div className="card"  onClick={() => setIsOpenTwitter(true)}>
                             <div className="card-body" id="twitter">
                                 <CardActionArea>
@@ -39,8 +52,6 @@ function Projets() {
                         </div>
                         {isOpenTwitter && <ModalTwitter setIsOpenTwitter={setIsOpenTwitter} />}
                     </div>
-                </div>
-                <div className="row">
                     <div className="col-sm-6">
                         <div className="card"  onClick={() => setIsOpenSnapchat(true)}>
                             <div className="card-body" id="snpachat">

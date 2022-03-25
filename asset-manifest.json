@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Portfolio_DounyaDerlen/static/css/main.4852976b.chunk.css",
-    "main.js": "/Portfolio_DounyaDerlen/static/js/main.e7e4f824.chunk.js",
-    "main.js.map": "/Portfolio_DounyaDerlen/static/js/main.e7e4f824.chunk.js.map",
+    "main.css": "/Portfolio_DounyaDerlen/static/css/main.ea119f75.chunk.css",
+    "main.js": "/Portfolio_DounyaDerlen/static/js/main.4a403a2e.chunk.js",
+    "main.js.map": "/Portfolio_DounyaDerlen/static/js/main.4a403a2e.chunk.js.map",
     "runtime-main.js": "/Portfolio_DounyaDerlen/static/js/runtime-main.f9f251bf.js",
     "runtime-main.js.map": "/Portfolio_DounyaDerlen/static/js/runtime-main.f9f251bf.js.map",
-    "static/js/2.51fdcbec.chunk.js": "/Portfolio_DounyaDerlen/static/js/2.51fdcbec.chunk.js",
-    "static/js/2.51fdcbec.chunk.js.map": "/Portfolio_DounyaDerlen/static/js/2.51fdcbec.chunk.js.map",
+    "static/js/2.7f72b47b.chunk.js": "/Portfolio_DounyaDerlen/static/js/2.7f72b47b.chunk.js",
+    "static/js/2.7f72b47b.chunk.js.map": "/Portfolio_DounyaDerlen/static/js/2.7f72b47b.chunk.js.map",
     "index.html": "/Portfolio_DounyaDerlen/index.html",
-    "static/css/main.4852976b.chunk.css.map": "/Portfolio_DounyaDerlen/static/css/main.4852976b.chunk.css.map",
-    "static/js/2.51fdcbec.chunk.js.LICENSE.txt": "/Portfolio_DounyaDerlen/static/js/2.51fdcbec.chunk.js.LICENSE.txt",
+    "static/css/main.ea119f75.chunk.css.map": "/Portfolio_DounyaDerlen/static/css/main.ea119f75.chunk.css.map",
+    "static/js/2.7f72b47b.chunk.js.LICENSE.txt": "/Portfolio_DounyaDerlen/static/js/2.7f72b47b.chunk.js.LICENSE.txt",
     "static/media/AV.c5dafaf7.png": "/Portfolio_DounyaDerlen/static/media/AV.c5dafaf7.png",
     "static/media/cv.8adb6a28.pdf": "/Portfolio_DounyaDerlen/static/media/cv.8adb6a28.pdf",
     "static/media/html.9e2517dc.png": "/Portfolio_DounyaDerlen/static/media/html.9e2517dc.png",
@@ -23,6 +23,8 @@
     "static/media/php.b0fca25e.png": "/Portfolio_DounyaDerlen/static/media/php.b0fca25e.png",
     "static/media/pinterest.166754c6.jpg": "/Portfolio_DounyaDerlen/static/media/pinterest.166754c6.jpg",
     "static/media/pinterest.4e4c3407.mp4": "/Portfolio_DounyaDerlen/static/media/pinterest.4e4c3407.mp4",
+    "static/media/prevon.8d20ca13.png": "/Portfolio_DounyaDerlen/static/media/prevon.8d20ca13.png",
+    "static/media/prevon.e632e165.mov": "/Portfolio_DounyaDerlen/static/media/prevon.e632e165.mov",
     "static/media/react.20adfb35.png": "/Portfolio_DounyaDerlen/static/media/react.20adfb35.png",
     "static/media/snapchat.1e2b0c6f.jpg": "/Portfolio_DounyaDerlen/static/media/snapchat.1e2b0c6f.jpg",
     "static/media/symfony.dfc00257.png": "/Portfolio_DounyaDerlen/static/media/symfony.dfc00257.png",
@@ -31,8 +33,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.f9f251bf.js",
-    "static/js/2.51fdcbec.chunk.js",
-    "static/css/main.4852976b.chunk.css",
-    "static/js/main.e7e4f824.chunk.js"
+    "static/js/2.7f72b47b.chunk.js",
+    "static/css/main.ea119f75.chunk.css",
+    "static/js/main.4a403a2e.chunk.js"
   ]
 }

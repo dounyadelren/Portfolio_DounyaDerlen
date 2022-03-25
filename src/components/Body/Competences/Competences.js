@@ -35,10 +35,10 @@ function Competences() {
                             </div>
                         </div>
                         <div className="card m-4" style={{maxWidth: "30rem"}}>
-                            <div className="card-header h5 text-center" id="entete">Langues<i class="ml-3 fas fa-globe-europe"></i></div>
+                            <div className="card-header h5 text-center" id="entete">Langues & autres<i class="ml-3 fas fa-globe-europe"></i></div>
                             <div className="card-body">
                                 <p className="card-text">Anglais: niveau C1 (bilingue)</p>
-                                <p className="card-text">Espagnol: niveau B1 (niveau lycée)</p>
+                                <p className="card-text">Méthode Agile Scrum</p>
                             </div>
                         </div>
                     </div>

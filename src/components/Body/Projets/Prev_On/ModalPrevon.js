@@ -18,7 +18,7 @@ const ModalPrevon = ({ setIsOpenPrevon }) => {
             Projet de fin d'année, réalisé en groupe, le front a été fait en React JS
             et le back en NodeJS. Il s'agit d'une API privée nommée BetaSeries, on peut suivre nos films, séries préférées
             marquer des épisodes comme vus, trouver nos amis inscrits au site etc.. Plus de précisions
-            sur le ReadMe à cette adresse <span className="text-decoration-underline user-select-all">https://github.com/dounyadelren/previously_on</span>
+            sur le ReadMe à cette <a href="https://github.com/dounyadelren/previously_on"target="_blank" rel="noreferrer">adresse</a>
           </div>
         </div>
       </div>

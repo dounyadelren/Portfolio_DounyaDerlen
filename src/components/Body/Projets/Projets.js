@@ -43,7 +43,7 @@ function Projets() {
                         {isOpenPrevon && <ModalPrevon setIsOpenPrevon={setIsOpenPrevon} />}
                     </div>
                     <div className="col-sm-6">
-                        <div className="card"  onClick={() => setIsOpenTwitter(true)}>
+                        <div className="card mb-4"  onClick={() => setIsOpenTwitter(true)}>
                             <div className="card-body" id="twitter">
                                 <CardActionArea>
                                     <Twitter />
@@ -53,7 +53,7 @@ function Projets() {
                         {isOpenTwitter && <ModalTwitter setIsOpenTwitter={setIsOpenTwitter} />}
                     </div>
                     <div className="col-sm-6">
-                        <div className="card"  onClick={() => setIsOpenSnapchat(true)}>
+                        <div className="card mb-4"  onClick={() => setIsOpenSnapchat(true)}>
                             <div className="card-body" id="snpachat">
                                 <CardActionArea>
                                     <Snapchat />
@@ -63,7 +63,7 @@ function Projets() {
                         {isOpenSnapchat && <ModalSnapchat setIsOpenSnapchat={setIsOpenSnapchat} />}
                     </div>
                     <div className="col-sm-6">
-                        <div className="card" onClick={() => setIsOpenCinema(true)}>
+                        <div className="card mb-4" onClick={() => setIsOpenCinema(true)}>
                             <div className="card-body" id="mycinema">
                                 {/* <h5 class="card-title text-center">PHP Natif</h5> */}
                                 <CardActionArea>
